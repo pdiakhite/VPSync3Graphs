@@ -1,0 +1,1315 @@
+Country,Total_Data_Centers,City,city_count
+
+USA,3778,Texas,383
+USA,3778,North Dakota,23
+USA,3778,Virginia,561
+USA,3778,New York,131
+USA,3778,Washington,105
+USA,3778,Kentucky,36
+USA,3778,Missouri,49
+USA,3778,Georgia,150
+USA,3778,Minnesota,75
+USA,3778,Michigan,61
+USA,3778,Arizona,146
+USA,3778,California,283
+USA,3778,Illinois,195
+USA,3778,Pennsylvania,85
+USA,3778,Florida,107
+USA,3778,Nebraska,36
+USA,3778,Kansas,19
+USA,3778,Maryland,39
+USA,3778,Ohio,191
+USA,3778,Connecticut,52
+USA,3778,Tennessee,60
+USA,3778,New Jersey,69
+USA,3778,Louisiana,22
+USA,3778,Wyoming,16
+USA,3778,South Carolina,32
+USA,3778,Massachusetts,46
+USA,3778,District of Columbia,6
+USA,3778,Maine,8
+USA,3778,North Carolina,90
+USA,3778,Iowa,95
+USA,3778,Indiana,75
+USA,3778,Colorado,56
+USA,3778,Nevada,68
+USA,3778,Idaho,17
+USA,3778,Wisconsin,40
+USA,3778,Oregon,120
+USA,3778,Utah,41
+USA,3778,Alabama,23
+USA,3778,Oklahoma,37
+USA,3778,New Mexico,21
+USA,3778,Arkansas,9
+USA,3778,Montana,25
+USA,3778,Hawaii,9
+USA,3778,Mississippi,10
+USA,3778,Delaware,18
+USA,3778,West Virginia,8
+USA,3778,New Hampshire,10
+USA,3778,Rhode Island,7
+USA,3778,Alaska,4
+USA,3778,Vermont,3
+USA,3778,South Dakota,5
+Canada,283,Montreal,54
+Canada,283,Toronto,72
+Canada,283,Vancouver,27
+Canada,283,Calgary,17
+Canada,283,Quebec,15
+Canada,283,Edmonton,15
+Canada,283,Winnipeg,10
+Canada,283,Mississauga,8
+Canada,283,Ottawa,7
+Canada,283,Kamloops,6
+Canada,283,Waterloo,5
+Canada,283,Halifax,5
+Canada,283,Saskatoon,5
+Canada,283,Saint John,4
+Canada,283,Regina,4
+Canada,283,Hamilton,3
+Canada,283,Kelowna,3
+Canada,283,Prince George,2
+Canada,283,Charlottetown,2
+Canada,283,Cranbrook,1
+Canada,283,Baie-Comeau,1
+Canada,283,Peace River,1
+Canada,283,Edmundston,1
+Canada,283,Grand Forks,1
+Canada,283,Moncton,1
+Canada,283,Merritt,1
+Canada,283,Shawinigan,1
+Canada,283,Red Deer,1
+Canada,283,Windsor,1
+Canada,283,Lethbridge,1
+Canada,283,Oakville,1
+Canada,283,London,1
+Canada,283,Victoria,1
+Canada,283,Kingston,1
+Canada,283,Nanaimo,1
+Canada,283,Winkler,1
+Mexico,62,Queretaro,18
+Mexico,62,Guadalajara,8
+Mexico,62,Mexico City,14
+Mexico,62,Merida,5
+Mexico,62,Hermosillo,1
+Mexico,62,Monterrey,7
+Mexico,62,Tijuana,1
+Mexico,62,Leon,1
+Mexico,62,San Luis Potosi,1
+Mexico,62,Toluca,2
+Mexico,62,Durango,1
+Mexico,62,Celaya,1
+Mexico,62,Manzanillo,1
+Mexico,62,Nogales,1
+Kazakhstan,15,Ekibastuz,2
+Kazakhstan,15,Almaty,4
+Kazakhstan,15,Astana,5
+Kazakhstan,15,Pavlodar,1
+Kazakhstan,15,Semey,1
+Kazakhstan,15,Karaganda,1
+Kazakhstan,15,Kyzylorda,1
+Germany,464,Frankfurt,120
+Germany,464,Hamburg,31
+Germany,464,Düsseldorf,30
+Germany,464,Berlin,43
+Germany,464,Cologne,16
+Germany,464,Wuppertal,1
+Germany,464,Munich,35
+Germany,464,Darmstadt,3
+Germany,464,Hannover,9
+Germany,464,Salzkotten,1
+Germany,464,Mannheim,8
+Germany,464,Stuttgart,24
+Germany,464,Leipzig,6
+Germany,464,Heidelberg,3
+Germany,464,Nuremberg,19
+Germany,464,Munster,5
+Germany,464,Menden,1
+Germany,464,Paderborn,2
+Germany,464,Saarlouis,2
+Germany,464,Dortmund,9
+Germany,464,Bielefeld,7
+Germany,464,Bremen,8
+Germany,464,Augsburg,4
+Germany,464,Dresden,4
+Germany,464,Wuerzburg,6
+Germany,464,Karlsruhe,7
+Germany,464,Erfurt,3
+Germany,464,Kiel,4
+Germany,464,Essen,3
+Germany,464,Bonn,3
+Germany,464,Magdeburg,3
+Germany,464,Freiburg,2
+Germany,464,Lindau,2
+Germany,464,Aachen,2
+Germany,464,Cottbus,1
+Germany,464,Lübbenau,1
+Germany,464,Falkenstein,1
+Germany,464,Bamberg,1
+Germany,464,Goppingen,1
+Germany,464,Saarbrucken,1
+Germany,464,Lüdenscheid,1
+Germany,464,Oberhausen,1
+Germany,464,Rostock,1
+Germany,464,Bad Mergentheim,1
+Germany,464,Konstanz,1
+Germany,464,Lübeck,1
+Germany,464,Saarland,1
+Germany,464,Schwerin,1
+Germany,464,Mahlow,1
+Germany,464,Wolfsburg,1
+Germany,464,Herne,1
+Germany,464,Saarbruecken,1
+Germany,464,Nettetal,1
+Germany,464,Bochum,1
+Germany,464,Coburg,1
+Germany,464,Regensburg,3
+Germany,464,Oldenburg,2
+Germany,464,Balingen,1
+Germany,464,Haßfurt,1
+Germany,464,Herford,1
+Germany,464,Hofkirchen,1
+Germany,464,Flensburg,2
+Germany,464,Chemnitz,1
+Germany,464,Gorlitz,1
+Germany,464,Hof,1
+Germany,464,Nordhorn,1
+Germany,464,Stralsund,1
+Germany,464,Jena,1
+Norway,84,Oslo,29
+Norway,84,Namsskogan,1
+Norway,84,Ørnes,1
+Norway,84,Sauda,1
+Norway,84,Aksdal,1
+Norway,84,Honefoss,1
+Norway,84,Rjukan,1
+Norway,84,Kristiansand,4
+Norway,84,Billingstad,1
+Norway,84,Måløy,1
+Norway,84,Stavanger,8
+Norway,84,Bryne,5
+Norway,84,Bergen,5
+Norway,84,Trondheim,4
+Norway,84,Gaupne,1
+Norway,84,Tonstad,1
+Norway,84,Korgen,1
+Norway,84,Skien,1
+Norway,84,Ås,1
+Norway,84,Kristiansund,1
+Norway,84,Molde,1
+Norway,84,Fauske,1
+Norway,84,Fredrikstad,1
+Norway,84,Tomter,1
+Norway,84,Fyresdal,1
+Norway,84,Røyrvik,1
+Norway,84,Kolbotn,1
+Norway,84,Sandefjord,3
+Norway,84,Kirkebygden,1
+Norway,84,Bismo,1
+Norway,84,Forus,1
+Norway,84,Gjøvik,1
+Norway,84,Hermansverk,1
+France,315,Paris,115
+France,315,Grenoble,5
+France,315,Lyon,12
+France,315,Antibes,2
+France,315,Lille,21
+France,315,Nantes,10
+France,315,Rouen,8
+France,315,Tours,3
+France,315,Montpellier,6
+France,315,Toulouse,12
+France,315,Dijon,2
+France,315,Bordeaux,8
+France,315,Strasbourg,9
+France,315,Rennes,7
+France,315,Nice,3
+France,315,Poitiers,2
+France,315,Avignon,1
+France,315,Sophia Antipolis,5
+France,315,Auch,1
+France,315,Besancon,1
+France,315,Valenciennes,2
+France,315,Marseille,13
+France,315,Annecy,2
+France,315,Metz,4
+France,315,Saint-Gaudens,1
+France,315,Le Creusot,1
+France,315,Le Mans,2
+France,315,La Rochelle,1
+France,315,Geneva FR,4
+France,315,Clermont-Ferrand,5
+France,315,Valence,3
+France,315,Limoges,2
+France,315,Bourges,2
+France,315,Reims,3
+France,315,Nancy,3
+France,315,Roubaix,7
+France,315,Saint-Etienne,2
+France,315,Carcassonne,2
+France,315,Pringy,1
+France,315,Nimes,1
+France,315,Belfort,1
+France,315,Auxerre,1
+France,315,Saint Trivier sur Moignans,1
+France,315,Laon,1
+France,315,Pau,1
+France,315,Douai,1
+France,315,Roanne,1
+France,315,Toulon,1
+France,315,Arras,2
+France,315,Caen,1
+France,315,Alencon,1
+France,315,Angers,1
+France,315,Calais,1
+France,315,Chartres,1
+France,315,Évreux,1
+France,315,Le Havre,1
+France,315,Mareuil sur Ay,1
+France,315,Narbonne,1
+France,315,Roann,1
+France,315,Rodez,1
+Japan,242,Inzai City,10
+Japan,242,Tokyo,103
+Japan,242,Osaka,52
+Japan,242,Nagoya,6
+Japan,242,Kawasaki,5
+Japan,242,Kobe,3
+Japan,242,Sapporo,6
+Japan,242,Yokohama,9
+Japan,242,Fukuoka,5
+Japan,242,Kanazawa,4
+Japan,242,Takamatsu,4
+Japan,242,Okinawa,2
+Japan,242,Okayama,2
+Japan,242,Fukushima,2
+Japan,242,Sendai,2
+Japan,242,Naha,4
+Japan,242,Hiroshima,2
+Japan,242,Kyoto,2
+Japan,242,Utsunomiya,1
+Japan,242,Matsue,1
+Japan,242,Shizuoka,1
+Japan,242,Genkai,1
+Japan,242,Yamaguchi,1
+Japan,242,Maebashi,2
+Japan,242,Saitama,1
+Japan,242,Nagano,1
+Japan,242,Niigata,1
+Japan,242,Aomori,1
+Japan,242,Tsukuba,4
+Japan,242,Iwamizawa,1
+Japan,242,Kawaguchi,1
+Japan,242,Matsuyama,1
+Japan,242,Oyama,1
+United Kingdom,479,London,198
+United Kingdom,479,Glasgow,10
+United Kingdom,479,Bournemouth,4
+United Kingdom,479,Leicester,1
+United Kingdom,479,Berkshire,10
+United Kingdom,479,Stevenage,3
+United Kingdom,479,Edinburgh,9
+United Kingdom,479,Birmingham UK,20
+United Kingdom,479,Manchester,28
+United Kingdom,479,Swindon,3
+United Kingdom,479,Chester,1
+United Kingdom,479,Milton Keynes,5
+United Kingdom,479,Bristol UK,2
+United Kingdom,479,Leeds,15
+United Kingdom,479,Farnborough,8
+United Kingdom,479,Nottingham,5
+United Kingdom,479,Fareham,1
+United Kingdom,479,Durham,1
+United Kingdom,479,Gloucester,1
+United Kingdom,479,Kent,5
+United Kingdom,479,Newcastle,8
+United Kingdom,479,Liverpool,9
+United Kingdom,479,Glenrothes,1
+United Kingdom,479,Crawley,2
+United Kingdom,479,Woking,3
+United Kingdom,479,Portsmouth,8
+United Kingdom,479,Cardiff,12
+United Kingdom,479,Cambridge,8
+United Kingdom,479,Sheffield,6
+United Kingdom,479,Essex,5
+United Kingdom,479,Oxfordshire,5
+United Kingdom,479,Belfast,5
+United Kingdom,479,Middlesbrough,5
+United Kingdom,479,Northamptonshire,3
+United Kingdom,479,York,3
+United Kingdom,479,Hull,4
+United Kingdom,479,South Wales,2
+United Kingdom,479,Coventry,2
+United Kingdom,479,Derby,2
+United Kingdom,479,Peterborough,2
+United Kingdom,479,Luton,3
+United Kingdom,479,Newbury,2
+United Kingdom,479,Norwich,2
+United Kingdom,479,Halifax,2
+United Kingdom,479,Poole,2
+United Kingdom,479,North Wales,6
+United Kingdom,479,Colchester,2
+United Kingdom,479,Bedford,2
+United Kingdom,479,Aberdeen,3
+United Kingdom,479,Exeter,2
+United Kingdom,479,Irvine,1
+United Kingdom,479,Blyth,1
+United Kingdom,479,Londonderry,1
+United Kingdom,479,Cumnock,1
+United Kingdom,479,Wiltshire,1
+United Kingdom,479,Blackpool,1
+United Kingdom,479,Stoke-on-Trent,1
+United Kingdom,479,Surrey,1
+United Kingdom,479,Bradford,1
+United Kingdom,479,Cheltenham,1
+United Kingdom,479,Wakefield,1
+United Kingdom,479,Falmouth,1
+United Kingdom,479,Southampton,1
+United Kingdom,479,High Wycombe,1
+United Kingdom,479,Welwyn Garden City,1
+United Kingdom,479,Reigate,1
+United Kingdom,479,Crewe,1
+United Kingdom,479,Dundee,1
+United Kingdom,479,Fleet,1
+United Kingdom,479,Guildford,1
+United Kingdom,479,Somerset,1
+United Kingdom,479,Telford,1
+United Kingdom,479,Hertford,1
+United Kingdom,479,Lincolnshire,1
+United Kingdom,479,Bolton,1
+United Kingdom,479,Leiston,1
+United Kingdom,479,Shropshire,1
+United Kingdom,479,Wherstead,1
+Paraguay,7,Villarrica,2
+Paraguay,7,Ciudad del Este,2
+Paraguay,7,Asuncion,3
+Ethiopia,6,Addis Ababa,6
+India,268,Chennai,33
+India,268,Noida,19
+India,268,Kolkata,9
+India,268,Ahmedabad,10
+India,268,Pune,16
+India,268,New Delhi,13
+India,268,Mumbai,44
+India,268,Navi Mumbai,22
+India,268,Jaipur,5
+India,268,Bangalore,31
+India,268,Hyderabad,28
+India,268,Cochin,6
+India,268,Gurgaon,5
+India,268,Coimbatore,3
+India,268,Visakhapatnam,2
+India,268,Bhubaneswar,2
+India,268,Indore,3
+India,268,Lucknow,2
+India,268,Nashik,2
+India,268,Ludhiana,2
+India,268,Rohtak,1
+India,268,Panchkula,1
+India,268,Mohali,1
+India,268,Alwar,1
+India,268,Madurai,1
+India,268,Pondicherry,1
+India,268,Patna,1
+India,268,Bhopal,1
+India,268,Guntur,1
+India,268,Alappuzha,1
+India,268,Faridabad,1
+Argentina,42,Rio Cuarto,1
+Argentina,42,Buenos Aires,30
+Argentina,42,Cordoba,5
+Argentina,42,Mendoza,1
+Argentina,42,Rosario,1
+Argentina,42,Santa Rosa,1
+Argentina,42,San Luis,1
+Argentina,42,Ushuaia,2
+Poland,97,Warsaw,38
+Poland,97,Opole,1
+Poland,97,Poznan,8
+Poland,97,Katowice,11
+Poland,97,Krakow,11
+Poland,97,Wroclaw,5
+Poland,97,Lodz,4
+Poland,97,Torun,2
+Poland,97,Gdansk,3
+Poland,97,Radom,2
+Poland,97,Szczecin,2
+Poland,97,Nowa Sol,1
+Poland,97,Bytom,1
+Poland,97,Trojmiasto,1
+Poland,97,Pawłowice,1
+Poland,97,Olsztyn,1
+Poland,97,Suwalki,1
+Poland,97,Zywiec,1
+Poland,97,Bydgoszcz,1
+Poland,97,Wyszkow,1
+Poland,97,Grodzisk Mazowiecki,1
+Hong Kong,83,Hong Kong,76
+Hong Kong,83,Fanling,2
+Hong Kong,83,Tai Po,2
+Hong Kong,83,Tsuen Wan,2
+Hong Kong,83,Ap Lei Chau,1
+South Africa,60,Johannesburg,35
+South Africa,60,Pretoria,4
+South Africa,60,Cape Town,11
+South Africa,60,Durban,6
+South Africa,60,Stellenbosch,1
+South Africa,60,Bloemfontein,1
+South Africa,60,East London,1
+South Africa,60,Port Elizabeth,1
+Singapore,65,Singapore,65
+Australia,264,Sydney,88
+Australia,264,Adelaide,18
+Australia,264,Melbourne,51
+Australia,264,Darwin,5
+Australia,264,Canberra,18
+Australia,264,Perth,26
+Australia,264,Brisbane,24
+Australia,264,Moss Vale,1
+Australia,264,Grafton,1
+Australia,264,Albury,2
+Australia,264,Hobart,5
+Australia,264,Newcastle AU,5
+Australia,264,Townsville,2
+Australia,264,Ballarat,3
+Australia,264,Launceston,1
+Australia,264,Sunshine Coast,2
+Australia,264,Toowoomba,1
+Australia,264,Port Hedland,1
+Australia,264,Newman,1
+Australia,264,Dubbo,1
+Australia,264,Tamworth,1
+Australia,264,Coffs Harbour,1
+Australia,264,Wagga Wagga,1
+Australia,264,Gold Coast,1
+Australia,264,Geraldton,1
+Australia,264,Christmas Island,1
+Australia,264,Bendigo,1
+Australia,264,Wollongong,1
+South Korea,85,Seoul,56
+South Korea,85,Anyang,3
+South Korea,85,Seongnam,5
+South Korea,85,Incheon,5
+South Korea,85,Busan,5
+South Korea,85,Chuncheon,3
+South Korea,85,Sejong,2
+South Korea,85,Gumi,2
+South Korea,85,Sungnam,2
+South Korea,85,Ulsan,1
+South Korea,85,Gangneung,1
+Indonesia,183,Jakarta,98
+Indonesia,183,Batam,15
+Indonesia,183,Bandung,7
+Indonesia,183,Surabaya,7
+Indonesia,183,Denpasar,7
+Indonesia,183,Bogor,4
+Indonesia,183,Bekasi,3
+Indonesia,183,Pekanbaru,3
+Indonesia,183,Yogyakarta,3
+Indonesia,183,Medan,3
+Indonesia,183,Palembang,3
+Indonesia,183,Makassar,3
+Indonesia,183,Semarang,2
+Indonesia,183,Bandar Lampung,2
+Indonesia,183,Banjarmasin,2
+Indonesia,183,Surakarta,2
+Indonesia,183,Banda Aceh,2
+Indonesia,183,Manado,2
+Indonesia,183,Balikpapan,2
+Indonesia,183,Jambi,1
+Indonesia,183,Malang,1
+Indonesia,183,Serang,1
+Indonesia,183,Ambon,1
+Indonesia,183,Cirebon,1
+Indonesia,183,Jember,1
+Indonesia,183,Kupang,1
+Indonesia,183,Madiun,1
+Indonesia,183,Manokwari,1
+Indonesia,183,Mataram,1
+Indonesia,183,Padang,1
+Indonesia,183,Pontianak,1
+Indonesia,183,Purwakarta,1
+The Netherlands,185,Amsterdam,71
+The Netherlands,185,Eindhoven,10
+The Netherlands,185,Middenmeer,10
+The Netherlands,185,Rotterdam,9
+The Netherlands,185,Utrecht,9
+The Netherlands,185,Groningen,8
+The Netherlands,185,Overijssel,7
+The Netherlands,185,Limburg,5
+The Netherlands,185,Apeldoorn,4
+The Netherlands,185,Maastricht,4
+The Netherlands,185,The Hague,3
+The Netherlands,185,Den Haag,3
+The Netherlands,185,Noord-Brabant,3
+The Netherlands,185,Schiphol-Rijk,3
+The Netherlands,185,Leeuwarden,3
+The Netherlands,185,s-Hertogenbosch,3
+The Netherlands,185,Breda,3
+The Netherlands,185,Ede,3
+The Netherlands,185,Flevoland,2
+The Netherlands,185,Roosendaal,2
+The Netherlands,185,Goes,2
+The Netherlands,185,Lelystad,2
+The Netherlands,185,Heerlen,2
+The Netherlands,185,Venlo,2
+The Netherlands,185,Alphen aan den Rijn,1
+The Netherlands,185,Friesland,1
+The Netherlands,185,Haarlem,1
+The Netherlands,185,Hengelo,1
+The Netherlands,185,Dordrecht,1
+The Netherlands,185,Dronten,1
+The Netherlands,185,Steenbergen,1
+The Netherlands,185,Arnhem,1
+The Netherlands,185,Deventer,1
+The Netherlands,185,Doetinchem,1
+The Netherlands,185,Zoetermeer,1
+Brazil,195,Sao Paulo,57
+Brazil,195,Campinas,25
+Brazil,195,Rio de Janeiro,23
+Brazil,195,Porto Alegre,12
+Brazil,195,Fortaleza,12
+Brazil,195,Brasilia,8
+Brazil,195,Tambore,8
+Brazil,195,Curitiba,6
+Brazil,195,Belo Horizonte,4
+Brazil,195,Recife,3
+Brazil,195,Maringa,3
+Brazil,195,Uberlandia,3
+Brazil,195,Vitoria,3
+Brazil,195,Blumenau,2
+Brazil,195,Goiania,2
+Brazil,195,Manaus,2
+Brazil,195,Videira,2
+Brazil,195,Palmas,2
+Brazil,195,Cascavel,2
+Brazil,195,Campo Grande,2
+Brazil,195,Parnaíba,1
+Brazil,195,Joao Pessoa,1
+Brazil,195,Cravinhos,1
+Brazil,195,Campina Grande,1
+Brazil,195,Santa Maria,1
+Brazil,195,Sao Jose do Rio Preto,1
+Brazil,195,Aracaju,1
+Brazil,195,Teresina,1
+Brazil,195,Itaúna,1
+Brazil,195,Joinville,1
+Brazil,195,Xaxim,1
+Brazil,195,Araranguá,1
+Brazil,195,Muriae,1
+Brazil,195,Ribeirao Preto,1
+Finland,86,Helsinki,31
+Finland,86,Pori,7
+Finland,86,Kajaani,6
+Finland,86,Oulu,5
+Finland,86,Tampere,5
+Finland,86,Lahti,3
+Finland,86,Pyhäjärvi,3
+Finland,86,Jyvaskyla,3
+Finland,86,Kuopio,3
+Finland,86,Mikkeli,3
+Finland,86,Lappeenranta,2
+Finland,86,Kouvola,2
+Finland,86,Kemi,2
+Finland,86,Jakobstad,2
+Finland,86,Hamina,1
+Finland,86,Rovaniemi,1
+Finland,86,Seinäjoki,1
+Finland,86,Hämeenlinna,1
+Finland,86,Kuhmo,1
+Finland,86,Keuruu,1
+Finland,86,Vaasa,1
+Finland,86,Ulvila,1
+Finland,86,Turku,1
+United Arab Emirates,55,Abu Dhabi,30
+United Arab Emirates,55,Dubai,23
+United Arab Emirates,55,Sharjah,1
+United Arab Emirates,55,Al Ain,1
+Spain,188,Madrid,64
+Spain,188,Barcelona,26
+Spain,188,Zaragoza,16
+Spain,188,Santander,12
+Spain,188,Valencia,10
+Spain,188,Bilbao,9
+Spain,188,Malaga,7
+Spain,188,Pamplona,4
+Spain,188,Sevilla,3
+Spain,188,Alicante,3
+Spain,188,Murcia,3
+Spain,188,Cadiz,2
+Spain,188,Granada,2
+Spain,188,Santa Cruz de Tenerife,2
+Spain,188,Ceuta,2
+Spain,188,Toledo ES,2
+Spain,188,Palma,2
+Spain,188,Oviedo,2
+Spain,188,Logrono,1
+Spain,188,Castellon de la Plana,1
+Spain,188,Badajoz,1
+Spain,188,Cáceres,1
+Spain,188,Ciudad Real,1
+Spain,188,A Coruña,1
+Spain,188,Girona,1
+Spain,188,Guadalajara,1
+Spain,188,Las Palmas,1
+Spain,188,Albacete,1
+Spain,188,Soria,1
+Spain,188,Córdoba,1
+Spain,188,Donostia,1
+Spain,188,Arrecife,1
+Spain,188,Huesca,1
+Spain,188,Ibiza,1
+Spain,188,Los Llanos,1
+Sweden,110,Stockholm,47
+Sweden,110,Falun,2
+Sweden,110,Boden,4
+Sweden,110,Gothenburg,11
+Sweden,110,Malmö,5
+Sweden,110,Pitea,2
+Sweden,110,Lund,2
+Sweden,110,Västerås,2
+Sweden,110,Karlshamn,2
+Sweden,110,Eskilstuna,2
+Sweden,110,Norrköping,1
+Sweden,110,Sollefteå,1
+Sweden,110,Falkenberg,1
+Sweden,110,Vilhelmina,1
+Sweden,110,Ljungaverk,1
+Sweden,110,Vaxjo,1
+Sweden,110,Tallberg,1
+Sweden,110,Gavle,14
+Sweden,110,Jonkoping,1
+Sweden,110,Eslov,1
+Sweden,110,Lulea,1
+Sweden,110,Hudiksvall,1
+Sweden,110,Boras,1
+Sweden,110,Katrineholm,1
+Sweden,110,Linkoping,1
+Sweden,110,Lycksele,1
+Sweden,110,Vallentuna,1
+Sweden,110,Jokkmokk,1
+Philippines,34,Santa Rosa,1
+Philippines,34,Manila,19
+Philippines,34,Batangas,1
+Philippines,34,Cebu,3
+Philippines,34,Davao,2
+Philippines,34,Calabarzon,2
+Philippines,34,Clark,1
+Philippines,34,Sucat,1
+Philippines,34,Subic,1
+Philippines,34,Makati City,1
+Philippines,34,Angeles City,1
+Philippines,34,Bonuan Gueset,1
+Malaysia,107,George Town,1
+Malaysia,107,Bagan Datuk,1
+Malaysia,107,Cyberjaya,31
+Malaysia,107,Johor Bahru,36
+Malaysia,107,Kuala Lumpur,22
+Malaysia,107,Shah Alam,5
+Malaysia,107,Kuching,2
+Malaysia,107,Bayan Baru,2
+Malaysia,107,Bintulu,1
+Malaysia,107,Selangor,1
+Malaysia,107,Bukit Kayu Hitam,1
+Malaysia,107,Mukim Labu,1
+Malaysia,107,Ipoh,1
+Malaysia,107,Alor Setar,1
+Malaysia,107,Labuan,1
+Oman,16,Salalah,3
+Oman,16,Muscat,8
+Oman,16,New Nizwa,2
+Oman,16,Sohar,2
+Oman,16,Sur,1
+Portugal,45,Covilha,1
+Portugal,45,Lisbon,24
+Portugal,45,Porto,11
+Portugal,45,Azores,1
+Portugal,45,Carnaxide,2
+Portugal,45,Alentejo,1
+Portugal,45,Barreiro,1
+Portugal,45,Abrantes,1
+Portugal,45,Beja,1
+Portugal,45,Matosinhos,1
+Portugal,45,Viseu,1
+Belgium,48,Brussels,18
+Belgium,48,Villers-Le-Bouillet,1
+Belgium,48,Bruges,2
+Belgium,48,Gent,5
+Belgium,48,Mons,2
+Belgium,48,Antwerp,6
+Belgium,48,Liege,3
+Belgium,48,Hasselt,3
+Belgium,48,Namur,2
+Belgium,48,Lokeren,1
+Belgium,48,Zaventem,1
+Belgium,48,Leuven,1
+Belgium,48,Zele,1
+Belgium,48,Aalst,1
+Belgium,48,Nossegem,1
+New Zealand,57,Auckland,29
+New Zealand,57,Hamilton NZ,4
+New Zealand,57,Wellington,7
+New Zealand,57,Christchurch,5
+New Zealand,57,Tauranga,4
+New Zealand,57,Invercargill,3
+New Zealand,57,Dunedin,2
+New Zealand,57,Palmerston North,1
+New Zealand,57,Whangarei,1
+New Zealand,57,New Plymouth,1
+Nigeria,22,Lagos,19
+Nigeria,22,Abuja,3
+Austria,53,Graz,5
+Austria,53,Vienna,25
+Austria,53,Salzburg,3
+Austria,53,Ostermieting,1
+Austria,53,Linz,6
+Austria,53,Bregenz,3
+Austria,53,Innsbruck,3
+Austria,53,Marchtrenk,2
+Austria,53,Klagenfurt,2
+Austria,53,Kapfenberg,1
+Austria,53,Landeck,1
+Austria,53,Wels,1
+Switzerland,112,Zürich,34
+Switzerland,112,Chiasso,2
+Switzerland,112,Basel,6
+Switzerland,112,Geneva,10
+Switzerland,112,Sankt Gallen,1
+Switzerland,112,Neuchatel,2
+Switzerland,112,Lucerne,13
+Switzerland,112,Lugano,5
+Switzerland,112,Lausanne,5
+Switzerland,112,Bern,8
+Switzerland,112,Winterthur,4
+Switzerland,112,Zug,7
+Switzerland,112,Biel,2
+Switzerland,112,Leuk,1
+Switzerland,112,Gossau,1
+Switzerland,112,Solothurn,1
+Switzerland,112,Jura,2
+Switzerland,112,Frauenfeld,1
+Switzerland,112,Uri,1
+Switzerland,112,Sursee,1
+Switzerland,112,Aargau,1
+Switzerland,112,Bellinzona,1
+Switzerland,112,Glarus,1
+Switzerland,112,Montreux,1
+Switzerland,112,Sion,1
+Angola,10,Luanda,10
+Italy,201,Milan,67
+Italy,201,Trieste,3
+Italy,201,Imola,1
+Italy,201,Frosinone,2
+Italy,201,Padova,7
+Italy,201,Caserta,4
+Italy,201,Bologna,5
+Italy,201,Trento,3
+Italy,201,Olbia,1
+Italy,201,Lentini,1
+Italy,201,Rome,20
+Italy,201,Varese,1
+Italy,201,Torino,11
+Italy,201,Bari,6
+Italy,201,Genova,5
+Italy,201,Bergamo,5
+Italy,201,Udine,4
+Italy,201,Pisa,3
+Italy,201,Venice,3
+Italy,201,Brescia,4
+Italy,201,Catania,3
+Italy,201,Florence,3
+Italy,201,Palermo,2
+Italy,201,Naples,2
+Italy,201,Lucca,2
+Italy,201,Cosenza,2
+Italy,201,Piacenza,2
+Italy,201,Vicenza,2
+Italy,201,Manocalzati,2
+Italy,201,Bolzano,2
+Italy,201,Ascoli Piceno,2
+Italy,201,Treviso,3
+Italy,201,Pavia,1
+Italy,201,Arezzo,2
+Italy,201,Merate,1
+Italy,201,Lecce,1
+Italy,201,Perugia,1
+Italy,201,Ancona,1
+Italy,201,Lamezia Terme,1
+Italy,201,Verona,1
+Italy,201,Pordenone,1
+Italy,201,Brindisi,1
+Italy,201,Castel San Pietro Terme,1
+Italy,201,Ravenna,1
+Italy,201,Modena,1
+Italy,201,Nuoro,1
+Italy,201,Parma,1
+Italy,201,Pescara,1
+China,364,Shanghai,56
+China,364,Beijing,49
+China,364,Nantong,3
+China,364,Nanjing,5
+China,364,Chengdu,7
+China,364,Luzhou,1
+China,364,Langfang,38
+China,364,Kunming,1
+China,364,Zhangjiakou,18
+China,364,Guangzhou,28
+China,364,Dongguan,12
+China,364,Shenzhen,15
+China,364,Ulanqab,11
+China,364,Tianjin,5
+China,364,Guiyang,6
+China,364,Zhongwei,7
+China,364,Chongqing,5
+China,364,Changzhou,6
+China,364,Xian,5
+China,364,Suzhou,9
+China,364,Hangzhou,4
+China,364,Hohhot,3
+China,364,Zaozhuang,3
+China,364,Jiaxing,3
+China,364,Wuhan,2
+China,364,Wuhu,5
+China,364,Shijiazhuang,2
+China,364,Hefei,4
+China,364,Baoding,3
+China,364,Ordos City,3
+China,364,Gaoxin,2
+China,364,Haikou,2
+China,364,Taiyuan,2
+China,364,Wuxi,2
+China,364,Wuxing,2
+China,364,Xiamen,2
+China,364,Zhejiang,2
+China,364,Shaoyang,1
+China,364,Sanya,1
+China,364,Nanning,1
+China,364,Linyi,1
+China,364,Lüliang,1
+China,364,Qingdao,1
+China,364,Heyuan,2
+China,364,Shenyang,2
+China,364,Lanzhou,2
+China,364,Dalian,1
+China,364,Daqing,1
+China,364,Datong,1
+China,364,Hami,1
+China,364,Huozhou,1
+China,364,Luoyang,1
+China,364,Nanming,1
+China,364,Qingyang,1
+China,364,Qinhuangdao,1
+China,364,Shandong,1
+China,364,Shantou,1
+China,364,Shanwei,1
+China,364,Tongling,1
+China,364,Weinan,1
+China,364,Wenzhou,1
+China,364,Yangquan,1
+China,364,Zhengzhou,1
+China,364,Zhuhai,1
+Denmark,81,Copenhagen,34
+Denmark,81,Esbjerg,9
+Denmark,81,Skanderborg,2
+Denmark,81,Randers,1
+Denmark,81,Århus,5
+Denmark,81,Saeby,3
+Denmark,81,Fredericia,2
+Denmark,81,Varde,12
+Denmark,81,Aalborg,3
+Denmark,81,Silkeborg,2
+Denmark,81,Kolding,2
+Denmark,81,Odense,2
+Denmark,81,Falster,1
+Denmark,81,Toender,1
+Denmark,81,Herning,1
+Denmark,81,Viborg,1
+Saudi Arabia,52,Riyadh,24
+Saudi Arabia,52,Dammam,14
+Saudi Arabia,52,Jeddah,6
+Saudi Arabia,52,Khobar,2
+Saudi Arabia,52,Neom,1
+Saudi Arabia,52,Medina,1
+Saudi Arabia,52,Buraidah,1
+Saudi Arabia,52,Maddinah,1
+Saudi Arabia,52,Mecca,1
+Saudi Arabia,52,Unaizah,1
+Thailand,57,Bangkok,42
+Thailand,57,Ban Chang,1
+Thailand,57,Chonburi,4
+Thailand,57,Rayong,3
+Thailand,57,Pathumthani,2
+Thailand,57,Pakkred,1
+Thailand,57,Chiang Mai,1
+Thailand,57,Pattaya,3
+Turkey,76,Izmir,9
+Turkey,76,Gebze,2
+Turkey,76,Çekmeköy,1
+Turkey,76,Ankara,11
+Turkey,76,Istanbul,34
+Turkey,76,Bursa,6
+Turkey,76,Denizli,3
+Turkey,76,Gaziantep,2
+Turkey,76,Korfez,1
+Turkey,76,Corlu,1
+Turkey,76,Isparta,1
+Turkey,76,Antalya,1
+Turkey,76,Konya,1
+Turkey,76,Samsun,1
+Turkey,76,Trabzon,1
+Turkey,76,Kayseri,1
+Greece,23,Athens,15
+Greece,23,Volos,1
+Greece,23,Thessaloniki,4
+Greece,23,Kozani,1
+Greece,23,Chania,1
+Greece,23,Heraklion,1
+Cyprus,18,Nicosia,8
+Cyprus,18,Limassol,4
+Cyprus,18,Larnaca,3
+Cyprus,18,Strovolos,1
+Cyprus,18,Paphos,1
+Cyprus,18,Anatoliko,1
+Guam,3,Hagatna,3
+Colombia,41,Bogota,32
+Colombia,41,Medellin,4
+Colombia,41,Barranquilla,3
+Colombia,41,Cali,2
+Hungary,17,Budapest,12
+Hungary,17,Szeged,2
+Hungary,17,Nyiregyhaza,1
+Hungary,17,Pécs,1
+Hungary,17,Szombathely,1
+Uzbekistan,6,Tashkent,6
+Romania,63,Bucharest,28
+Romania,63,Timisoara,10
+Romania,63,Cluj Napoca,8
+Romania,63,Brasov,5
+Romania,63,Galati,2
+Romania,63,Constanta,2
+Romania,63,Ploiesti,2
+Romania,63,Craiova,2
+Romania,63,Drobeta Turnu Severin,1
+Romania,63,Iasi,1
+Romania,63,Sibiu,1
+Romania,63,Toplita,1
+Bosnia and Herzegovina,4,Sarajevo,2
+Bosnia and Herzegovina,4,Banja Luka,1
+Bosnia and Herzegovina,4,Novi Travnik,1
+Chile,66,Santiago,56
+Chile,66,Valparaíso,3
+Chile,66,Puerto Montt,2
+Chile,66,Punta Arenas,1
+Chile,66,Paine,1
+Chile,66,Temuco,1
+Chile,66,Los Andes,1
+Chile,66,Concepción,1
+El Salvador,3,San Salvador,2
+El Salvador,3,Ciudad Arce,1
+Panama,17,Panama City,16
+Panama,17,Santa Maria,1
+Ukraine,36,Kiev,23
+Ukraine,36,Kharkov,5
+Ukraine,36,Odessa,2
+Ukraine,36,Kremenchuk,2
+Ukraine,36,Vinnytsia,1
+Ukraine,36,Khmelnitskiy,1
+Ukraine,36,Rivne,1
+Ukraine,36,Nikolaev,1
+New Caledonia,3,Noumea,2
+New Caledonia,3,Nouville,1
+Dominican Republic,3,Santo Domingo,3
+Madagascar,3,Antananarivo,2
+Madagascar,3,Toliara,1
+Botswana,5,Gaborone,4
+Botswana,5,Serowe,1
+Guatemala,7,Guatemala,7
+Bulgaria,31,Sofia,23
+Bulgaria,31,Varna,3
+Bulgaria,31,Burgas,1
+Bulgaria,31,Kapitan Andreevo,1
+Bulgaria,31,Ruse,1
+Bulgaria,31,Montana,1
+Bulgaria,31,Plovdiv,1
+Mayotte,1,Mamoudzou,1
+Iraq,1,Erbil,1
+Mongolia,7,Ulaanbaatar,6
+Mongolia,7,Darkhan,1
+Morocco,14,Casablanca,6
+Morocco,14,Rabat,4
+Morocco,14,Tangier,2
+Morocco,14,Tanger,1
+Morocco,14,Fez,1
+Estonia,12,Tallinn,9
+Estonia,12,Harku,1
+Estonia,12,Johvi,1
+Estonia,12,Narva,1
+Czech Republic,54,Prague,27
+Czech Republic,54,Brno,5
+Czech Republic,54,Ostrava,4
+Czech Republic,54,Zlin,3
+Czech Republic,54,Ceske Budejovice,3
+Czech Republic,54,Ivancice,2
+Czech Republic,54,Prachatice,1
+Czech Republic,54,Jihlava,1
+Czech Republic,54,Morava,1
+Czech Republic,54,Rožnov pod Radhoštěm,1
+Czech Republic,54,Most,1
+Czech Republic,54,Olomouc,1
+Czech Republic,54,Hradec Kralove,1
+Czech Republic,54,Pardubice,1
+Czech Republic,54,Pisek,1
+Czech Republic,54,Mladá Boleslav,1
+Lithuania,19,Vilnius,16
+Lithuania,19,Siauliai,2
+Lithuania,19,Kaunas,1
+Luxembourg,16,Luxembourg,12
+Luxembourg,16,Bettembourg,3
+Luxembourg,16,Bissen,1
+Israel,62,Tel Aviv,29
+Israel,62,Petah Tikva,8
+Israel,62,Haifa,8
+Israel,62,Jerusalem,6
+Israel,62,Netanya,3
+Israel,62,HaSharon,2
+Israel,62,Hof Hasharon,2
+Israel,62,Beersheba,2
+Israel,62,Herzliya,1
+Israel,62,Afula,1
+Monaco,3,Monaco,3
+Sri Lanka,2,Colombo,2
+Russia,175,Moscow,99
+Russia,175,Saint Petersburg,22
+Russia,175,Yekaterinburg,9
+Russia,175,Novosibirsk,6
+Russia,175,Samara,4
+Russia,175,Tver,4
+Russia,175,Vladivostok,3
+Russia,175,Kazan,3
+Russia,175,Yaroslavl,2
+Russia,175,Nighny Novgorod,2
+Russia,175,Krasnoyarsk,2
+Russia,175,Kaluga,1
+Russia,175,Yuzhno-Sakhalinsk,1
+Russia,175,Omsk,1
+Russia,175,Khabarovsk,1
+Russia,175,Perm,1
+Russia,175,Murmansk,1
+Russia,175,Kaliningrad,1
+Russia,175,Nizhny Novgorod,1
+Russia,175,Podolsk,1
+Russia,175,Tomsk,1
+Russia,175,Vladimir,1
+Russia,175,Chelyabinsk,1
+Russia,175,Abakan,1
+Russia,175,Voronezh,1
+Russia,175,Belgorod,1
+Russia,175,Kursk,1
+Russia,175,Ryazan,1
+Russia,175,Sochi,1
+Russia,175,Zelenograd,1
+Moldova,6,Chisinau,6
+Ivory Coast,6,Abidjan,6
+DR Congo,4,Kinshasa,4
+Uganda,4,Kampala,4
+Mozambique,6,Maputo,6
+Tanzania,11,Dar es Salaam,10
+Tanzania,11,Dodoma,1
+Vietnam,38,Ho Chi Minh City,22
+Vietnam,38,Hanoi,13
+Vietnam,38,Da Nang,3
+Kenya,20,Nairobi,16
+Kenya,20,Mombasa,4
+Taiwan,37,Taipei,17
+Taiwan,37,Taoyuan,6
+Taiwan,37,New Taipei City,5
+Taiwan,37,Kaohsiung City,3
+Taiwan,37,Taichung,2
+Taiwan,37,Tainan,2
+Taiwan,37,Taichung City,1
+Taiwan,37,Zhubei,1
+Gibraltar,6,Gibraltar,6
+Serbia,13,Belgrade,10
+Serbia,13,Kragujevac,1
+Serbia,13,Vrsac,1
+Serbia,13,Nis,1
+Bangladesh,15,Dhaka,12
+Bangladesh,15,Jashore,2
+Bangladesh,15,Chittagong,1
+Iceland,12,Reykjavik,4
+Iceland,12,Keflavik,4
+Iceland,12,Akureyri,1
+Iceland,12,Húsavík,1
+Iceland,12,Blonduos,1
+Iceland,12,Vestmannaeyjar,1
+Ireland,128,Dublin,96
+Ireland,128,Naas,7
+Ireland,128,Ennis,6
+Ireland,128,Kildare,6
+Ireland,128,Waterford,3
+Ireland,128,Galway,2
+Ireland,128,Drogheda,2
+Ireland,128,Carlow,1
+Ireland,128,Mullingar,1
+Ireland,128,Ballina,1
+Ireland,128,Cork,1
+Ireland,128,Limerick,1
+Ireland,128,Letterkenny,1
+Croatia,15,Zagreb,11
+Croatia,15,Rijeka,2
+Croatia,15,Varaždin,1
+Croatia,15,Osijek,1
+Bolivia,5,Santa Cruz de la Sierra,4
+Bolivia,5,La Paz,1
+Pakistan,27,Karachi,11
+Pakistan,27,Lahore,8
+Pakistan,27,Islamabad,8
+Iran,20,Tehran,15
+Iran,20,Isfahan,1
+Iran,20,Rasht,1
+Iran,20,Shiraz,1
+Iran,20,Hamedan,1
+Iran,20,Qom,1
+Latvia,24,Riga,24
+Slovenia,20,Ljubljana,15
+Slovenia,20,Maribor,3
+Slovenia,20,Nova Gorica,1
+Slovenia,20,Koper,1
+Egypt,13,Cairo,10
+Egypt,13,Suez,1
+Egypt,13,6 October City,1
+Egypt,13,Mansura,1
+Peru,14,Lima,13
+Peru,14,Tacna,1
+Costa Rica,12,San Jose CR,9
+Costa Rica,12,Cañas,1
+Costa Rica,12,Alajuela,1
+Costa Rica,12,Cartago,1
+Nepal,10,Kathmandu,10
+Cambodia,10,Phnom Penh,10
+Malta,10,St Venera,3
+Malta,10,Qormi,2
+Malta,10,Birkirkara,1
+Malta,10,Madliena,1
+Malta,10,Gzira,1
+Malta,10,Marsa,1
+Malta,10,Kalkara,1
+Mauritius,10,Port Louis,5
+Mauritius,10,Reduit,2
+Mauritius,10,Rose Belle,1
+Mauritius,10,Arsenal,1
+Mauritius,10,Quatre Bornes,1
+Ghana,8,Accra,8
+Puerto Rico,8,San Juan,6
+Puerto Rico,8,Caguas,1
+Puerto Rico,8,Humacao,1
+Jordan,8,Amman,7
+Jordan,8,Aqaba,1
+Senegal,7,Dakar,7
+Uruguay,10,Montevideo,8
+Uruguay,10,Maldonado,1
+Uruguay,10,Canelones,1
+Macedonia,7,Skopje,6
+Macedonia,7,Deve Bair,1
+Algeria,6,Algiers,3
+Algeria,6,Oran,1
+Algeria,6,Cheraga,1
+Algeria,6,Constantine,1
+Slovakia,13,Bratislava,10
+Slovakia,13,Kosice,1
+Slovakia,13,Presov,1
+Slovakia,13,Banska Bystrica,1
+Isle of Man,6,Douglas,4
+Isle of Man,6,Ballasalla,2
+Ecuador,9,Quito,5
+Ecuador,9,Guayaquil,4
+Venezuela,6,Caracas,4
+Venezuela,6,Valencia VZ,1
+Venezuela,6,Barcelona VE,1
+Myanmar,5,Yangon,4
+Myanmar,5,Mandalay,1
+Bahrain,8,Manama,3
+Bahrain,8,Saar,2
+Bahrain,8,Askar,2
+Bahrain,8,Zallaq,1
+Tunisia,4,Sousse,2
+Tunisia,4,Tunis,2
+Albania,4,Tirana,4
+Reunion,5,Le Port,2
+Reunion,5,Sainte-Clotilde,2
+Reunion,5,Saint Denis,1
+Trinidad and Tobago,4,Port of Spain,3
+Trinidad and Tobago,4,Princes Town,1
+Liechtenstein,7,Vaduz,7
+Kuwait,5,Kuwait City,5
+Qatar,11,Doha,11
+Djibouti,3,Djibouti,3
+Curacao,3,Willemstad,3
+Libya,6,Tripoli,3
+Libya,6,Misrata,1
+Libya,6,Sabha,1
+Libya,6,Benghazi,1
+Rwanda,3,Kigali,3
+Zambia,3,Lusaka,3
+Kyrgyzstan,3,Bishkek,3
+Honduras,4,Tegucigalpa,3
+Honduras,4,San Pedro Sula,1
+Nicaragua,3,Managua,3
+Azerbaijan,3,Baku,3
+Georgia,4,Tbilisi,3
+Georgia,4,Batumi,1
+Bahamas,4,Nassau,3
+Bahamas,4,Freeport,1
+Bhutan,3,Sarpang,1
+Bhutan,3,Chhukha,1
+Bhutan,3,Thimphu,1
+Armenia,2,Yerevan,2
+Namibia,2,Windhoek,2
+Guernsey,3,St Peter Port,3
+French Polynesia,2,Papenoo,1
+French Polynesia,2,Papeete,1
+Belarus,2,Minsk,2
+Jersey,5,St Helier,2
+Jersey,5,St Saviour,2
+Jersey,5,Grouville,1
+Togo,2,Lomé,2
+Cameroon,2,Yaounde,1
+Cameroon,2,Douala,1
+Maldives,3,Male,3
+Brunei,4,Bandar Seri Begawan,4
+Afghanistan,2,Kabul,2
+Bermuda,2,Hamilton BM,2
+Laos,2,Laos,2
+Guyana,1,Georgetown,1
+Lebanon,2,Beirut,1
+Lebanon,2,Shouf,1
+Syria,1,Damascus,1
+Martinique,1,Le Lamentin,1
+Guinea,1,Conakry,1
+Burkina Faso,1,Ouagadougou,1
+Macau,1,Taipa,1
+French Guiana,1,Cayenne,1
+Cayman Islands,2,George Town,1
+Cayman Islands,2,Stake Bay,1
+Andorra,3,Andorra la Vella,3
+Malawi,1,Blantyre,1
+Papua New Guinea,1,Port Moresby,1
+Republic of the Congo,1,Brazzaville,1
+Suriname,2,Paramaribo,2
+Palestine,1,Ramallah,1
+Gabon,1,Libreville,1
+Mali,1,Bamako,1
+Zimbabwe,3,Harare,2
+Zimbabwe,3,Bulawayo,1
+Greenland,2,Nuuk,2
+Equatorial Guinea,1,Malabo,1
+Eswatini,1,Mbabane,1
+Jamaica,1,Kingston,1
+Kosovo,1,Prishtine,1
+Solomon Islands,1,Honiara,1
+Sudan,1,Khartoum,1
+Lesotho,2,Maseru,2
+Seychelles,1,Perseverance Island,1
+Sierra Leone,1,Freetown,1
+Somalia,1,Berbera,1
+US Virgin Islands,1,St. Croix,1

@@ -304,6 +304,10 @@ def main() -> None:
                 "<span style='color:#dc2626'>(Interactive)</span>",
                 unsafe_allow_html=True,
             )
+            st.write(
+                "How to interact: Click legend items to show/hide layers. Double‑click to focus on one layer. "
+                "Enable Knowledge Bridges and Bridge Details to view the link lines and hover callouts."
+            )
         else:
             st.subheader(title)
 
